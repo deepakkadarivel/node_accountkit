@@ -1,0 +1,25 @@
+{
+  "name": "node_accountkit",
+  "version": "1.0.0",
+  "description": "Facebook Accountkit implementation using Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deepakkadarivel/node_accountkit.git"
+  },
+  "keywords": [
+    "nodejs",
+    "facebook",
+    "accountkit",
+    "authentication"
+  ],
+  "author": "Deepak Kadarivel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deepakkadarivel/node_accountkit/issues"
+  },
+  "homepage": "https://github.com/deepakkadarivel/node_accountkit#readme"
+}
